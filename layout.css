@@ -15,19 +15,7 @@ body{
 	padding: 1px;
 	text-align: center;
 }
-#kalender{   
-	width: 200px;
-	height: 100px ;
-	padding: 1px;
-	float: righ;
-}
-#kalkulator{
-	float:left;
-	padding: 1px;
-width: 355px;
-	height: 300px ;
-	background-color: skyblue;
-}
+
 #footer {
 	height: 30px;
 	padding: 5px;
